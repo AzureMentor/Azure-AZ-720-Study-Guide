@@ -1,4 +1,4 @@
-# AZ-720: Troubleshoot hybrid and cloud connectivity issues (20–25%)
+# AZ-720: Troubleshoot cloud and hybrid connectivity issues (20–25%)
 
 ## Troubleshoot Virtual Network (VNet) connectivity
 * Troubleshoot Virtual Private Network (VPN) gateway transit issues
