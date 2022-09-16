@@ -1,12 +1,12 @@
 # AZ-720: Troubleshooting Microsoft Azure Connectivity Study Guide
 ## Skills measured
 
-1. [Troubleshoot business continuity issues (5–10%)]()
-2. [Troubleshoot hybrid and cloud connectivity issues (20–25%)]()
-3. [Troubleshoot Platform as a Service issues (5–10%)]()
-4. [Troubleshoot authentication and access control issues (15–20%)]()
-5. [Troubleshoot networks (25–30%)]()
-6. [Troubleshoot VM connectivity issues (5–10%)]()
+1. [Troubleshoot business continuity issues (5–10%)](1-Troubleshoot%20business%20continuity%20issues%20(5–10%25).md)
+2. [Troubleshoot hybrid and cloud connectivity issues (20–25%)](2-Troubleshoot%20hybrid%20and%20cloud%20connectivity%20issues%20(20–25%25).md)
+3. [Troubleshoot Platform as a Service issues (5–10%)](3-Troubleshoot%20Platform%20as%20a%20Service%20issues%20(5–10%25).md)
+4. [Troubleshoot authentication and access control issues (15–20%)](4-Troubleshoot%20authentication%20and%20access%20control%20issues%20(15–20%25).md)
+5. [Troubleshoot networks (25–30%)](5-Troubleshoot%20networks%20(25–30%25).md)
+6. [Troubleshoot VM connectivity issues (5–10%)](6-Troubleshoot%20VM%20connectivity%20issues%20(5–10%25).md)
 
 ## Hands-on study material at Microsoft Learn
 
