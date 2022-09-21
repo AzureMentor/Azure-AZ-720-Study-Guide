@@ -9,6 +9,7 @@
 * Troubleshoot NSG configuration issues
 * Review and interpret NSG flow logs
 * Determine whether a VM or a group of VMs is associated with an Application Security Group (ASG)
+* [Diagnose a virtual machine network traffic filter problem](https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)
 
 ## Troubleshoot Azure Firewall issues
 * Troubleshoot application, network, and infrastructure rules
@@ -18,8 +19,10 @@
 ## Troubleshoot latency issues
 * Determine the root cause for VM-level throttling
 * Determine the root cause for latency issues when connecting to Azure virtual machines
+    * [Test VM network latency](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-test-latency)
 * Determine the root cause for throttling between source and destination resources
-* Troubleshoot bandwidth availability issues 
+* Troubleshoot bandwidth availability issues
+    * [Bandwidth/Throughput testing (NTTTCP)](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-bandwidth-testing)
 * Determine whether resource response times meet Service-Level Agreements (SLAs)
 
 ## Troubleshoot routing and traffic control
@@ -32,6 +35,7 @@
 * Troubleshoot Transitive Routing
 * Troubleshoot Service Chaining
 * Troubleshoot routing configuration issues in Azure
+* [Diagnose a virtual machine routing problem](https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem)
 
 ## Troubleshoot load-balancing issues
 * Determine whether VMs in a load-balanced cluster are healthy
