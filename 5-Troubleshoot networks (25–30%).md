@@ -45,7 +45,7 @@
 * Evaluate the configuration of Azure Traffic Manager
 * Troubleshoot issues with Azure Traffic Manager profiles
 * Troubleshoot port exhaustion issues
-* Troubleshoot issues with Azure Front Door
+* [Troubleshoot issues with Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues)
 * Troubleshoot issues with Azure Application Gateway
 
 [Return to Table of Contents](README.md)
