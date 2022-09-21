@@ -4,6 +4,7 @@
 * Troubleshoot issues deploying Azure Bastion
 * Troubleshoot connectivity issues
 * Troubleshoot authorization issues
+* [Troubleshoot Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/troubleshoot)
 
 ## Troubleshoot Just-In-Time (JIT) VM access
 * Validate connectivity with a VM
