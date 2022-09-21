@@ -28,7 +28,9 @@
 * Troubleshoot issues with User-Defined Routes
 * Troubleshoot issues related to forced tunneling
 * Troubleshoot Border Gateway Protocol (BGP) issues
-* Troubleshoot Virtual Network Peering, Transitive Routing, and Service Chaining
+* [Troubleshoot Virtual Network Peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-peering-issues)
+* Troubleshoot Transitive Routing
+* Troubleshoot Service Chaining
 * Troubleshoot routing configuration issues in Azure
 
 ## Troubleshoot load-balancing issues
