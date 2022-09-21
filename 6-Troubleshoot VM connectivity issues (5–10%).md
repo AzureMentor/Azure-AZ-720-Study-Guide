@@ -10,7 +10,7 @@
 
 ## Troubleshoot Just-In-Time (JIT) VM access
 * Validate connectivity with a VM
-    * [https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks)
+    * [Understanding just-in-time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?tabs=defender-for-container-arch-aks)
 * Troubleshoot Microsoft Defender for Cloud configuration issues
     * [Microsoft Defender for Cloud Troubleshooting Guide](https://learn.microsoft.com/en-us/azure/defender-for-cloud/troubleshooting-guide)
 * Determine which resources are authorized to use JIT VM access
